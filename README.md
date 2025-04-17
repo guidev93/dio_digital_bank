@@ -1,5 +1,5 @@
 
-## 👩‍💻 Iphone
+## 👩‍💻 Banco Digital
 
 O usuário poderá escolher três aplicativos dentre as seguintes opções:
 
